@@ -19,7 +19,7 @@ Inspired by my own challenges in grasping statistics, "Grand Prix Geek" seeks to
 
 ### Prerequisites
 
-- Python 3.x
+- Python 3.8
 - Jupyter Notebook
 - Required Python libraries: pandas, matplotlib, seaborn, scipy, statsmodels, pymc
 
