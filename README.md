@@ -50,9 +50,6 @@ Don't forget to give the project a star! Thanks again!
 
 Distributed under the Apache License. See `LICENSE` for more information.
 
-## Contact
-
-
 ## Acknowledgements
 
 - [Ergast Developer API](http://ergast.com/mrd/) - The source of Formula 1 data used in this series.
